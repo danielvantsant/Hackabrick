@@ -27,4 +27,4 @@ This code allows the use of left and right mouse clicks through an arduino micro
   The left button is programmed for pin 2
   The right button is programmed for pin 3
 
-Construction materials can be found on the thingiverse website where you'll be able to download .stl files to 3d print the box. https://www.thingiverse.com/thing:4848559
+Construction materials can be found on the thingiverse website where you'll be able to download .stl files to 3d print the box. https://cults3d.com/en/3d-model/gadget/hackabrick
