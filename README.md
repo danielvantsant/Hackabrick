@@ -1,8 +1,8 @@
 # Hackabrick
 This code allows the use of left and right mouse clicks through an arduino micro designed for the use of jelly buttons for those with limited dexterity. The code also allows the user to scroll up and down through the same buttons by holding the buttons in a certain sequence.
 
- #######################################Instructions#######################################
-
+ ## Instructions
+ 
   When the left button is held and the right button held after, the Hackabrick will simulate
   mouse scrolls until the right button is released, if another press of the right button
   occurs while the left button is still held down, the Hackabrick will simulate a mouse
@@ -23,7 +23,8 @@ This code allows the use of left and right mouse clicks through an arduino micro
   | Hold Right Button then press Left Button                      | Escape Key Pressed   |
   -> On Board Light will turn on if any button is pressed for diagnostic reasons.
 
-  ##########################################################################################
   
   The left button is programmed for pin 2
   The right button is programmed for pin 3
+
+Construction materials can be found on the thingiverse website where you'll be able to download .stl files to 3d print the box. https://www.thingiverse.com/thing:4848559
